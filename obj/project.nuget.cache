@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+B/sw7ujMpA=",
+  "dgSpecHash": "oakmr8V6YV8=",
   "success": true,
   "projectFilePath": "/home/ctfchick1x1/C#/Journal-Program/Journal-Program.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/ctfchick1x1/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

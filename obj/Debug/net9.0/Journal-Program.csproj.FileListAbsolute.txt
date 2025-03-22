@@ -13,3 +13,6 @@
 /home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.pdb
 /home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.genruntimeconfig.cache
 /home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/ref/Journal-Program.dll
+/home/ctfchick1x1/C#/Journal-Program/bin/Debug/net9.0/CsvHelper.dll
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.csproj.AssemblyReference.cache
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-.8536B4A8.Up2Date
