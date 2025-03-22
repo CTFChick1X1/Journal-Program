@@ -1,0 +1,15 @@
+/home/ctfchick1x1/C#/Journal-Program/bin/Debug/net9.0/Journal-Program
+/home/ctfchick1x1/C#/Journal-Program/bin/Debug/net9.0/Journal-Program.deps.json
+/home/ctfchick1x1/C#/Journal-Program/bin/Debug/net9.0/Journal-Program.runtimeconfig.json
+/home/ctfchick1x1/C#/Journal-Program/bin/Debug/net9.0/Journal-Program.dll
+/home/ctfchick1x1/C#/Journal-Program/bin/Debug/net9.0/Journal-Program.pdb
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.AssemblyInfoInputs.cache
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.AssemblyInfo.cs
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.csproj.CoreCompileInputs.cache
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.sourcelink.json
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.dll
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/refint/Journal-Program.dll
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.pdb
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/Journal-Program.genruntimeconfig.cache
+/home/ctfchick1x1/C#/Journal-Program/obj/Debug/net9.0/ref/Journal-Program.dll
