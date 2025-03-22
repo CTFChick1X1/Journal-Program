@@ -31,7 +31,6 @@ class Journal
 
     public void SaveToCsv(string filename)
     {
-        
         try
         {
             using (var writer = new StreamWriter(filename))
